@@ -6,8 +6,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: make setup
-    test-job:
-      needs: setup-job
       - run: make test
       - run: make lint
       
