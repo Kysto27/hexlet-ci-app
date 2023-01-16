@@ -1,3 +1,5 @@
+## Actions Status
+
 [![Actions Status](https://github.com/Kysto27/hexlet-ci-app/workflows/new-workflow/badge.svg)](https://github.com/Kysto27/hexlet-ci-app/actions)
 
 # Example app for CI Hexlet course
